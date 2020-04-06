@@ -7,7 +7,7 @@
     <ProjectGuid>{6F71C8E5-76B8-4ECB-A06F-02F9A7ED53BA}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>JsonRpcClient</RootNamespace>
-    <AssemblyName>JsonRpcClient</AssemblyName>
+    <AssemblyName>Client</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
